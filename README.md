@@ -1,2 +1,3 @@
 # TestGitHub
-Github Tutorial
+Github Tutorial to runserver, functions etc
+Sample
